@@ -1,0 +1,50 @@
+body{ 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(40, 33, 236);
+    color: #e9dab8;
+    /*background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPCj6C85DnMDgB8TZ4syt-g_Upb0qgO2KiCw&usqp=CAU");*/
+    background-image:url("https://img.freepik.com/premium-vector/anchor-seamless-repeat-pattern-vector-background-dark-blue_654662-4554.jpg")
+}
+a{
+    color: bisque;
+}
+
+a:visited {
+    color: blueviolet;
+}
+
+img{
+    display: block;
+    border: solid white 3px;
+    padding: 5px;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 50%;
+}
+
+h3{
+    border: dashed white 5px;
+    text-align: center;
+}
+
+.lotr{
+    display: block;
+    margin: auto;
+    font-family: cursive;
+    color: rgb(0, 229, 255);
+    font-size: 50px;
+    font-weight: bold;
+    border: solid 3px fuchsia;
+    background-color: grey;
+    text-align: center;
+}
+
+.lotr:hover {
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: line-through;
+    font-size: 250%;
+    background-color: black;
+    color:aqua;
+
+}
